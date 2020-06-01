@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf7db6b6-4003-4836-b882-625800d062c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-example/.idea/spring-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xUnit/junit4-sample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xUnit/junit5-sample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xUnit/testng-sample/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean2Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean3Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/ioc/IOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/ioc/IOC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/resources/spring-bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/main/resources/spring-bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/base/UnitTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/base/UnitTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/bean/Bean1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/bean/Bean1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean2Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean3Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/dao/InjectionDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/dao/InjectionDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/service/InjectionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/service/InjectionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/OneInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/impl/OneInterfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/spring-bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/target/classes/spring-bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/base/UnitTestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/bean/Bean1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/ioc/injection/service/InjectionServiceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/ioc/interfaces/OneInterfaceImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/ioc/interfaces/UserServiceImplTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/mavenRepository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ci0dwdzJ6J2TxUafR1esyimsRa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf7db6b6-4003-4836-b882-625800d062c7" name="Default Changelist" comment="" />
+      <created>1590996197947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590996197947</updated>
+      <workItem from="1590996201161" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="68" key="SettingsEditor" timestamp="1590996233018">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="229" y="68" key="SettingsEditor/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590996233018" />
+  </component>
+</project>
