@@ -160,8 +160,34 @@ Appium是一个移动端的自动化测试框架，可用于测试原生应用�
             - 解压后在命令行中进入python-client-master目录，该目录下包含setup.py文件
             - 执行命令python setup.py install命令安装客户端
 - Appium java client
+    - 使用地址：https://github.com/appium/java-client
 
 ### appium环境安装检测
 - 安装appium-doctor检测appium的安装环境
-    - cnpm install appium-doctor
+    - cnpm install -g appium-doctor
 - 在命令执行appium-doctor
+![image](image/appium-doctor.png)
+查看有两处红叉的地方，表示环境检测未完成，则需要解决这两处
+- Error running xcrun simctl
+    - 这个是由于Xcode没有选择版本号导致的，打开Xcode-->Preferences-->Locations-->Command Line Tools 选择版本号就可以了
+    ![image](image/xcode.png)
+- Carthage was NOT found!
+    - 安装Carthage即可
+    ```
+    brew update
+    brew install carthage
+    ```
+
+## Android自动化
+### android自动化前提依赖
+- adb工具
+- 模拟器 or 真机
+    - 模拟器：网易mumu、genimotion，或者sdk自带模拟器
+    - 真机需要root权限
+- Appium Desktop：入门学习工具
+    - Desktop主要功能
+        - UI分析
+        - 录制用例
+        - 元素查找测试
+        - Attach已有session
+        - 云测试
