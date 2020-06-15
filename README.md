@@ -183,6 +183,16 @@ Appium是一个移动端的自动化测试框架，可用于测试原生应用�
 - adb工具
 - 模拟器 or 真机
     - 模拟器：网易mumu、genimotion，或者sdk自带模拟器
+        - 网易mumu操作
+            - 连接：adb connect 127.0.0.1:7555
+            - 查看：adb devices
+            ```
+            【win版】
+            adb connect 127.0.0.1:7555
+            adb shell
+            【mac版】
+            adb kill-server && adb server && adb shell
+            ```
     - 真机需要root权限
 - Appium Desktop：入门学习工具
     - Desktop主要功能
@@ -191,3 +201,32 @@ Appium是一个移动端的自动化测试框架，可用于测试原生应用�
         - 元素查找测试
         - Attach已有session
         - 云测试
+
+### Android常用命令
+- adb:Android Debug Bridge
+- adb devices:查看设备
+- adb kill-server:关闭adb的后台进程
+- adb tcpip:让Android脱离USB线的TCP连接方式
+- adb connect:连接开启了TCP连接方式的手机
+- adb logcat:Android日志查看
+- adb bugreport:收集日志数据，用于后续的分析，比如耗电量
+
+### adb shell
+- adb shell本身就是一个Linux的shell
+- adb shell
+- adb shell dumpsys
+- adb shell pm
+- adb shell am
+- adb shell ps
+- adb shell monkey
+
+### 获取App的信息
+- App信息
+    - 获取当前界面元素：adb shell dumpsys activity top
+    - 获取任务列表：adb shell dumpsys activity activities
+- App入口
+    - adb logcat | grep -i displayed
+    - aapt dump badging mobike.apk | grep launchable-activity
+    - apkanalyzer最新版本的sdk中才有
+- 启动应用
+    - adb shell am start -W -n com.xueqiu.android/.view.WelcomeActivityAlias -S
