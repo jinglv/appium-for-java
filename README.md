@@ -212,7 +212,7 @@ Appium是一个移动端的自动化测试框架，可用于测试原生应用�
 - adb bugreport:收集日志数据，用于后续的分析，比如耗电量
 
 ### adb shell
-- adb shell本身就是一个Linux的shell
+- adb shell本身就是一个Linux的shell，可以调用Android内置命令
 - adb shell
 - adb shell dumpsys
 - adb shell pm
@@ -230,3 +230,27 @@ Appium是一个移动端的自动化测试框架，可用于测试原生应用�
     - apkanalyzer最新版本的sdk中才有
 - 启动应用
     - adb shell am start -W -n com.xueqiu.android/.view.WelcomeActivityAlias -S
+
+### 自动化测试常用命令
+- adb
+- pm
+    - 清理指定包的缓存：adb shell pm clear com.xueqiu.android
+- am
+    - 启动指定的activity：adb shell am start -n com.xueqiu.android/.view.WelcomeActivityAlias -S
+- dumpsys
+- uiautomator
+    - adb shell uiautomator dump
+    - adb shell uiautomator runtest ...
+- input
+    - 模拟事件：adb shell input xxx
+
+#### Android性能统计dumpsys
+- 获取所有的dumpsys子命令：dumpsys | grep -i DUMP
+- 获取当前activity： adb shell dumpsys activity top
+- 获取activities记录，可以获取到appium依赖的原始activity：dumpsys activity activities
+- 获取特定包基本信息：adb shell dumpsys package com.xueqiu.android
+- 获取系统通知：adb shell dumpsys notification
+- 获得内存信息：adb shell dumpsys meminfo com.android.settings
+- 获取cpu信息：adb shell dumpsys cpuinfo
+- 获取gpu绘制分析：adb shell dumpsys gfxinfo com.android.settings
+- 获取短信：adb shell dumpsys activity broadcasts | grep senderName=
