@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7db6b6-4003-4836-b882-625800d062c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-example/.idea/spring-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xUnit/junit4-sample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xUnit/junit5-sample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xUnit/testng-sample/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean2Factory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/bean/Bean3Factory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/ioc/IOC.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/main/java/com/spring/example/ioc/IOC.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/main/resources/spring-bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/main/resources/spring-bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/base/UnitTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/base/UnitTestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/bean/Bean1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/src/test/java/com/spring/example/bean/Bean1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean2Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/bean/Bean3Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/dao/InjectionDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/dao/InjectionDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/service/InjectionService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/injection/service/InjectionServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/OneInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/impl/OneInterfaceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/com/spring/example/ioc/interfaces/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/classes/spring-bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-example/target/classes/spring-bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/base/UnitTestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/bean/Bean1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/ioc/injection/service/InjectionServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/ioc/interfaces/OneInterfaceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-example/target/test-classes/com/spring/example/ioc/interfaces/UserServiceImplTest.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +14,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -72,11 +35,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -88,17 +57,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590996197947</updated>
-      <workItem from="1590996201161" duration="102000" />
+      <workItem from="1590996201161" duration="442000" />
+      <workItem from="1590998061160" duration="11376000" />
+      <workItem from="1591346191302" duration="10000" />
+      <workItem from="1591672512279" duration="1330000" />
+      <workItem from="1591865434852" duration="1996000" />
+      <workItem from="1591929689987" duration="671000" />
+      <workItem from="1592360421068" duration="463000" />
+      <workItem from="1592818597302" duration="1897000" />
+      <workItem from="1592900584610" duration="38000" />
+      <workItem from="1593399133387" duration="83000" />
     </task>
+    <task id="LOCAL-00001" summary="[add]appium学习笔记">
+      <created>1591097953957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591097953957</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[add]appium学习笔记">
+      <created>1591173211149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591173211149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[add]appium学习笔记">
+      <created>1592212677437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592212677437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[add]appium学习笔记">
+      <created>1592900603847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592900603847</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add]appium学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]appium学习笔记" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1592900603698">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1592212677299" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900603698" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1591173210922" />
+    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.816/1440.-102.1920.1057@0.23.1440.816" timestamp="1591097953779" />
     <state x="229" y="68" key="SettingsEditor" timestamp="1590996233018">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="229" y="68" key="SettingsEditor/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590996233018" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1592900605243">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900605243" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1591173236112" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.816/1440.-102.1920.1057@0.23.1440.816" timestamp="1591097955476" />
   </component>
 </project>
