@@ -1,9 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf7db6b6-4003-4836-b882-625800d062c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/auto/demo/app/wework/page/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/auto/demo/app/wework/page/SchedulePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/auto/demo/app/wework/page/WeWorkPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/auto/demo/app/xueqiu/page/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/auto/demo/app/xueqiu/page/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/auto/demo/app/xueqiu/page/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/XueQiuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/auto/demo/app/wework/page/SchedulePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/auto/demo/app/xueqiu/page/SearchPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/auto/demo/app/wework/page/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/auto/demo/app/wework/page/SchedulePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/auto/demo/app/wework/page/WeWorkPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/auto/demo/app/xueqiu/page/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/auto/demo/app/xueqiu/page/MainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/auto/demo/app/xueqiu/page/SearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/XueQiuTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/auto/demo/app/wework/page/SchedulePageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/auto/demo/app/xueqiu/page/SearchPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appium-for-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/appium-for-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +90,14 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +114,7 @@
   <component name="ProjectId" id="1ci0dwdzJ6J2TxUafR1esyimsRa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -38,14 +124,104 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.auto.demo.app.wework.page" />
+      <recent name="com.auto.demo.app.xueqiu.page" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.auto.demo.app.xueqiu.page" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SchedulePageTest.addDate">
+    <configuration name="SchedulePageTest.addDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appium-for-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auto.demo.app.wework.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auto.demo.app.wework.page" />
+      <option name="MAIN_CLASS_NAME" value="com.auto.demo.app.wework.page.SchedulePageTest" />
+      <option name="METHOD_NAME" value="addDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appium-for-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auto.demo.app.xueqiu.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auto.demo.app.xueqiu.page" />
+      <option name="MAIN_CLASS_NAME" value="com.auto.demo.app.xueqiu.page.SearchPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchPageTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appium-for-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.auto.demo.app.xueqiu.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.auto.demo.app.xueqiu.page" />
+      <option name="MAIN_CLASS_NAME" value="com.auto.demo.app.xueqiu.page.SearchPageTest" />
+      <option name="METHOD_NAME" value="search(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XueQiuTest.sampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appium-for-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="XueQiuTest" />
+      <option name="METHOD_NAME" value="sampleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SchedulePageTest.addDate" />
+        <item itemvalue="JUnit.SearchPageTest" />
+        <item itemvalue="JUnit.SearchPageTest.search" />
+        <item itemvalue="JUnit.XueQiuTest.sampleTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,6 +243,8 @@
       <workItem from="1592818597302" duration="1897000" />
       <workItem from="1592900584610" duration="38000" />
       <workItem from="1593399133387" duration="83000" />
+      <workItem from="1606880341893" duration="7976000" />
+      <workItem from="1606899961715" duration="12067000" />
     </task>
     <task id="LOCAL-00001" summary="[add]appium学习笔记">
       <created>1591097953957</created>
@@ -107,22 +285,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="[add]appium学习笔记" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1592900603698">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1606986787900">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1592212677299" />
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900603698" />
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1591173210922" />
-    <state x="307" y="23" key="CommitChangelistDialog2/0.23.1440.816/1440.-102.1920.1057@0.23.1440.816" timestamp="1591097953779" />
-    <state x="229" y="68" key="SettingsEditor" timestamp="1590996233018">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606986787900" />
+    <state x="481" y="305" width="479" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606898038038">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="229" y="68" key="SettingsEditor/0.23.1440.813/1440.-102.1920.1057@0.23.1440.813" timestamp="1590996233018" />
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1592900605243">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="481" y="305" width="479" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606898038038" />
+    <state width="1396" height="162" key="GridCell.Tab.0.bottom" timestamp="1606987743089">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.806/1440.-102.1920.1057@0.23.1440.806" timestamp="1592900605243" />
-    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1591173236112" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.816/1440.-102.1920.1057@0.23.1440.816" timestamp="1591097955476" />
+    <state width="1396" height="162" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606987743089" />
+    <state width="1396" height="162" key="GridCell.Tab.0.center" timestamp="1606987743088">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="162" key="GridCell.Tab.0.center/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606987743088" />
+    <state width="1396" height="162" key="GridCell.Tab.0.left" timestamp="1606987743087">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="162" key="GridCell.Tab.0.left/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606987743087" />
+    <state width="1396" height="162" key="GridCell.Tab.0.right" timestamp="1606987743088">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1396" height="162" key="GridCell.Tab.0.right/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606987743088" />
+    <state x="259" y="91" key="Maven.ArtifactSearchDialog" timestamp="1606975112145">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="259" y="91" key="Maven.ArtifactSearchDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606975112145" />
+    <state x="222" y="23" key="SettingsEditor" timestamp="1606901116640">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="222" y="23" key="SettingsEditor/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606901116640" />
+    <state x="464" y="246" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606987011946">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="464" y="246" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606987011946" />
+    <state x="89" y="92" key="new project wizard" timestamp="1606893242983">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="89" y="92" key="new project wizard/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606893242983" />
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1606972098267">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812/1440.-102.1920.1057@0.23.1440.812" timestamp="1606972098267" />
   </component>
 </project>
